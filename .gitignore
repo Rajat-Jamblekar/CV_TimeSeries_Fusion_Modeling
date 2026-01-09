@@ -1,0 +1,8 @@
+venv
+venv_mediapipe
+venv/
+venv_mediapipe/
+data
+annotation_template.csv
+features_master.csv
+transformed_cricket_shots.csv
